@@ -1,10 +1,15 @@
 {
- "updated": "2026-11-15T12:10:40-05:00",
+ "updated": "2026-11-15T21:07:03-05:00",
  "highlights": [
   {
    "month": "2026-11",
    "title": "30th Festival of Lights and Trees",
    "date": "2026-11-20"
+  },
+  {
+   "month": "2026-12",
+   "title": "A Very Merry Motown Christmas",
+   "date": "2026-12-05"
   }
  ],
  "events": [
@@ -520,6 +525,15 @@
    "blurb": "Come along to a Saturday-afternoon food and drink gathering in Port Hope."
   },
   {
+   "title": "Celebrate the Season - New Ventures Band",
+   "date": "2026-11-21",
+   "time": "",
+   "place": "Cobourg",
+   "town": "Cobourg",
+   "type": "live music event",
+   "blurb": "A Saturday live music event in Cobourg."
+  },
+  {
    "title": "Let's Colour - All Ages",
    "date": "2026-11-24",
    "time": "15:00",
@@ -590,6 +604,88 @@
    "town": "Port Hope",
    "type": "holiday celebration",
    "blurb": "Pencil in a Saturday-afternoon holiday celebration in Port Hope."
+  },
+  {
+   "title": "Les AMIS Concert",
+   "date": "2026-11-29",
+   "time": "",
+   "place": "Cobourg",
+   "town": "Cobourg",
+   "type": "live music event",
+   "blurb": "Come along to a Sunday live music event in Cobourg."
+  },
+  {
+   "title": "Christmas Magic",
+   "date": "2026-11-30",
+   "time": "",
+   "place": "Cobourg",
+   "town": "Cobourg",
+   "type": "holiday celebration",
+   "blurb": "A Monday holiday celebration in Cobourg."
+  },
+  {
+   "title": "A Very Merry Motown Christmas",
+   "date": "2026-12-05",
+   "time": "",
+   "place": "Cobourg",
+   "town": "Cobourg",
+   "type": "live music event",
+   "blurb": "Come along to a Saturday live music event in Cobourg.",
+   "highlight": true
+  },
+  {
+   "title": "Northumberland Orchestra Society- Swing Into The Season",
+   "date": "2026-12-12",
+   "time": "",
+   "place": "Cobourg",
+   "town": "Cobourg",
+   "type": "live music event",
+   "blurb": "Pencil in a Saturday live music event in Cobourg."
+  },
+  {
+   "title": "John McDermott - Family Christmas",
+   "date": "2026-12-16",
+   "time": "",
+   "place": "Cobourg",
+   "town": "Cobourg",
+   "type": "holiday celebration",
+   "blurb": "Pencil in a Wednesday holiday celebration in Cobourg."
+  },
+  {
+   "title": "ABBA Revisited- Christmas Spectacular",
+   "date": "2026-12-18",
+   "time": "",
+   "place": "Cobourg",
+   "town": "Cobourg",
+   "type": "live music event",
+   "blurb": "Come along to a Friday live music event in Cobourg."
+  },
+  {
+   "title": "Songs of Love and Light - La Jeunesse",
+   "date": "2026-12-19",
+   "time": "",
+   "place": "Cobourg",
+   "town": "Cobourg",
+   "type": "live music event",
+   "blurb": "A Saturday live music event in Cobourg."
+  },
+  {
+   "title": "Concert Band - Christmas Concert",
+   "date": "2026-12-20",
+   "time": "",
+   "place": "Cobourg",
+   "town": "Cobourg",
+   "type": "live music event",
+   "blurb": "Come along to a Sunday live music event in Cobourg."
+  },
+  {
+   "title": "Sultans of String - Christmas Caravan",
+   "date": "2026-12-20",
+   "time": "",
+   "place": "Cobourg",
+   "town": "Cobourg",
+   "type": "live music event",
+   "blurb": "Come along to a Sunday live music event in Cobourg."
   }
  ]
 }
