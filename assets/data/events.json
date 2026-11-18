@@ -1,72 +1,40 @@
 {
- "updated": "2026-11-17T14:11:28-05:00",
+ "updated": "2026-11-18T13:51:54-05:00",
  "highlights": [
   {
    "month": "2026-11",
    "title": "30th Festival of Lights and Trees",
    "date": "2026-11-20"
-  },
-  {
-   "month": "2026-12",
-   "title": "New Years Eve at the Lions",
-   "date": "2026-12-31"
   }
  ],
  "events": [
   {
    "title": "Exhibition, ‘The World We Fear’",
-   "date": "2026-11-17",
+   "date": "2026-11-18",
    "time": "10:00",
    "place": "Art Gallery of Northumberland, Cobourg",
    "town": "Cobourg",
    "type": "art event",
-   "blurb": "Come along to a Tuesday-morning art event at Art Gallery of Northumberland, Cobourg.",
+   "blurb": "Join neighbours for a Wednesday-morning art event at Art Gallery of Northumberland, Cobourg.",
    "also": [
-    "2026-11-18",
     "2026-11-19",
-    "2026-11-20"
+    "2026-11-20",
+    "2026-11-21"
    ]
   },
   {
    "title": "Exhibition, ‘At the Threshold: Selections from the Permanent Collection’",
-   "date": "2026-11-17",
+   "date": "2026-11-18",
    "time": "10:00",
    "place": "Art Gallery of Northumberland, Cobourg",
    "town": "Cobourg",
    "type": "art event",
-   "blurb": "Come along to a Tuesday-morning art event at Art Gallery of Northumberland, Cobourg.",
+   "blurb": "Pencil in a Wednesday-morning art event at Art Gallery of Northumberland, Cobourg.",
    "also": [
-    "2026-11-18",
     "2026-11-19",
-    "2026-11-20"
+    "2026-11-20",
+    "2026-11-21"
    ]
-  },
-  {
-   "title": "Lunch and Learn",
-   "date": "2026-11-17",
-   "time": "11:30",
-   "place": "Port Hope",
-   "town": "Port Hope",
-   "type": "talk",
-   "blurb": "Pencil in a Tuesday-morning talk in Port Hope."
-  },
-  {
-   "title": "Community 101: Changing the Story Around Homelessness Part 1",
-   "date": "2026-11-17",
-   "time": "17:30",
-   "place": "Port Hope",
-   "town": "Port Hope",
-   "type": "talk",
-   "blurb": "Come along to a Tuesday-evening talk in Port Hope."
-  },
-  {
-   "title": "Double Brim Beanie",
-   "date": "2026-11-17",
-   "time": "18:30",
-   "place": "Yarn It, Cobourg",
-   "town": "Cobourg",
-   "type": "hands-on workshop",
-   "blurb": "Come along to a Tuesday-evening hands-on workshop at Yarn It, Cobourg."
   },
   {
    "title": "A Winter Welcome",
@@ -474,13 +442,31 @@
    "blurb": "Come along to a Saturday-evening hands-on workshop in Cobourg."
   },
   {
-   "title": "Celebrate the Season - New Ventures Band",
-   "date": "2026-11-21",
-   "time": "",
-   "place": "Cobourg",
+   "title": "The Great Gingerbread Build-Off Workshop",
+   "date": "2026-11-22",
+   "time": "10:00",
+   "place": "Knights of Columbus Hall, Port Hope, Port Hope",
+   "town": "Port Hope",
+   "type": "hands-on workshop",
+   "blurb": "A Sunday-morning hands-on workshop at Knights of Columbus Hall, Port Hope, Port Hope."
+  },
+  {
+   "title": "Northumberland Antique/Vintage Show and Sale",
+   "date": "2026-11-22",
+   "time": "10:00",
+   "place": "Lions Centre, Cobourg",
    "town": "Cobourg",
-   "type": "live music event",
-   "blurb": "A Saturday live music event in Cobourg."
+   "type": "market",
+   "blurb": "Pencil in a Sunday-morning market at Lions Centre, Cobourg."
+  },
+  {
+   "title": "Agn Vibes",
+   "date": "2026-11-22",
+   "time": "11:00",
+   "place": "Art Gallery of Northumberland, Cobourg",
+   "town": "Cobourg",
+   "type": "art event",
+   "blurb": "Join neighbours for a Sunday-morning art event at Art Gallery of Northumberland, Cobourg."
   },
   {
    "title": "Sunday Scrabble and Chess Drop-in",
@@ -589,106 +575,6 @@
    "town": "Port Hope",
    "type": "holiday celebration",
    "blurb": "Pencil in a Saturday-afternoon holiday celebration in Port Hope."
-  },
-  {
-   "title": "Les AMIS Concert",
-   "date": "2026-11-29",
-   "time": "",
-   "place": "Cobourg",
-   "town": "Cobourg",
-   "type": "live music event",
-   "blurb": "Come along to a Sunday live music event in Cobourg."
-  },
-  {
-   "title": "Christmas Magic",
-   "date": "2026-11-30",
-   "time": "",
-   "place": "Cobourg",
-   "town": "Cobourg",
-   "type": "holiday celebration",
-   "blurb": "A Monday holiday celebration in Cobourg."
-  },
-  {
-   "title": "Christmas Wassail",
-   "date": "2026-12-05",
-   "time": "",
-   "place": "Cobourg",
-   "town": "Cobourg",
-   "type": "holiday celebration",
-   "blurb": "Come along to a Saturday holiday celebration in Cobourg."
-  },
-  {
-   "title": "A Very Merry Motown Christmas",
-   "date": "2026-12-05",
-   "time": "",
-   "place": "Cobourg",
-   "town": "Cobourg",
-   "type": "live music event",
-   "blurb": "Come along to a Saturday live music event in Cobourg."
-  },
-  {
-   "title": "Northumberland Orchestra Society- Swing Into The Season",
-   "date": "2026-12-12",
-   "time": "",
-   "place": "Cobourg",
-   "town": "Cobourg",
-   "type": "live music event",
-   "blurb": "Pencil in a Saturday live music event in Cobourg."
-  },
-  {
-   "title": "John McDermott - Family Christmas",
-   "date": "2026-12-16",
-   "time": "",
-   "place": "Cobourg",
-   "town": "Cobourg",
-   "type": "holiday celebration",
-   "blurb": "Pencil in a Wednesday holiday celebration in Cobourg."
-  },
-  {
-   "title": "ABBA Revisited- Christmas Spectacular",
-   "date": "2026-12-18",
-   "time": "",
-   "place": "Cobourg",
-   "town": "Cobourg",
-   "type": "live music event",
-   "blurb": "Come along to a Friday live music event in Cobourg."
-  },
-  {
-   "title": "Songs of Love and Light - La Jeunesse",
-   "date": "2026-12-19",
-   "time": "",
-   "place": "Cobourg",
-   "town": "Cobourg",
-   "type": "live music event",
-   "blurb": "A Saturday live music event in Cobourg."
-  },
-  {
-   "title": "Concert Band - Christmas Concert",
-   "date": "2026-12-20",
-   "time": "",
-   "place": "Cobourg",
-   "town": "Cobourg",
-   "type": "live music event",
-   "blurb": "Come along to a Sunday live music event in Cobourg."
-  },
-  {
-   "title": "Sultans of String - Christmas Caravan",
-   "date": "2026-12-20",
-   "time": "",
-   "place": "Cobourg",
-   "town": "Cobourg",
-   "type": "live music event",
-   "blurb": "Come along to a Sunday live music event in Cobourg."
-  },
-  {
-   "title": "New Years Eve at the Lions",
-   "date": "2026-12-31",
-   "time": "",
-   "place": "Cobourg",
-   "town": "Cobourg",
-   "type": "community event",
-   "blurb": "Join neighbours for a Thursday community event in Cobourg.",
-   "highlight": true
   }
  ]
 }
